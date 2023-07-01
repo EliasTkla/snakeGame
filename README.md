@@ -18,9 +18,3 @@
   ### Game Over ###
   
   ![Screenshot 2023-07-01 at 7 28 22 PM](https://github.com/EliasTkla/snakeGame/assets/60025074/f5844ac9-41b2-4460-8ac0-83bfd31877c6)
-
-
-# Requirements #
-
-  - Python 3.x
-  - Pygame
