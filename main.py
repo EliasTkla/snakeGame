@@ -178,8 +178,8 @@ while running:
             move_snake()
             food_collision()
     else:
-        pygame.draw.rect(screen, BLACK, (WIDTH - 50, 10, 10, 30))
-        pygame.draw.rect(screen, BLACK, (WIDTH - 70, 10, 10, 30))
+        pygame.draw.rect(screen, WHITE, (WIDTH//2 - 75, HEIGHT//3, 50, 150))
+        pygame.draw.rect(screen, WHITE, (WIDTH//2, HEIGHT//3, 50, 150))
 
     pygame.display.flip()
 
